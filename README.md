@@ -12,8 +12,6 @@ We can find what is the most popular and/ or exclusive/new at a given location &
 
 ZOMATO API-2
 Dataset Collection -
-Due to Zomato API Basic Plan restriction, we cannot collect enough data for analysis. 
-To overcome this problem ‘Zomato.csv’ file is provided to analyse the data deeply and to get useful inference.
 Data has been collected from the Zomato API in the form of .json files(raw data) using the API url and stored in CSV file.
 the CSV file has aslo been uploaded
 

@@ -1,7 +1,7 @@
 ## Application Program Interfaces
--API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
--In Data Science, API commmunications is integral part of Data Collection.
--For this project, I am using the Zomato API to fetch details about various restaurants and then deduce Information from the collected Data.
+API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
+- In Data Science, API commmunications is integral part of Data Collection.
+- For this project, I am using the Zomato API to fetch details about various restaurants and then deduce Information from the collected Data.
 
 ## My Motivation for using Zomato API:
 -By Collecting the data using Zomato API one can recommend restaurants on the basis of user’s affinity to specific cuisines, establishment types, locations, and price bands.
